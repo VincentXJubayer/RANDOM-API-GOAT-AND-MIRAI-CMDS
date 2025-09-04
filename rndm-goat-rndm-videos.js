@@ -2,7 +2,7 @@ const axios = require("axios");
 
 module.exports = {
   config: {
-    name: "rndm",
+    name: "rndm", // Please don't change my credit :)
     version: "1.0",
     author: "Jubayer",
     countDown: 3,
