@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "add",
     version: "1.0",
-    author: "Jubayer",
+    author: "Jubayer", // Don't change my credit :)
     countDown: 3,
     role: 0,
     shortDescription: { en: "Add video to API" },
